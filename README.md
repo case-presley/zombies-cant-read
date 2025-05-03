@@ -51,4 +51,3 @@ Feel free to [email me](mailto:casepresley.dev@tuta.com)!
 
 Check out my other work:
 - [My website](https://casepresley.com)
-- [My YouTube channel](https://youtube.com/@casepresley)
