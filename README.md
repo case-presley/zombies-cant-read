@@ -43,11 +43,3 @@ Feel free to fork or reuse for your own games.
 
 [Play the game on itch.io](https://casepresley.itch.io/zombies-cant-read)
 
-
-## Contact
-Want to know more about how the full game works?  
-Feel free to [email me](mailto:casepresley.dev@tuta.com)!
-
-
-Check out my other work:
-- [My website](https://casepresley.com)
